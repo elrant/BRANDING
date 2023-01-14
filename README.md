@@ -1,4 +1,6 @@
 # BRANDING
+![Creative Commons BY-NC-SA 3.0](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
 ASSETS PROVIDED AS-IS BY TEAM ELRANT && AFFILIATES (with love!)
 
 ## Music Product
@@ -18,15 +20,13 @@ ALL ASSETS IN [Background](https://github.com/elrant/BRANDING/tree/main/nyaambxr
 
 # LICENSE
 
-ALL ASSETS ARE UNDER THE [Creactive Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) LICENSE:
-
+ALL ASSETS ARE UNDER THE [Creative Commons BY-NC-SA 3.0](https://github.com/elrant/BRANDING/blob/main/LICENSE) LICENSE:
 
 YOU ARE FREE TO:
 
     Share — copy and redistribute the material in any medium or format
     Adapt — remix, transform, and build upon the material
 
-    The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 
 UNDER THE FOLLOWING TERMS:
