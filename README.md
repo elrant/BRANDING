@@ -4,17 +4,19 @@
 ASSETS PROVIDED AS-IS BY TEAM ELRANT && AFFILIATES (with love!)
 
 ## Music Product
-ALL ASSETS IN [/Music Product](https://github.com/elrant/BRANDING/tree/main/Music%20Product) BELONG TO [MUSIC PRODUCT LIMITED](https://musicproduct.info/).
+ALL ASSETS IN [/musprod](https://github.com/elrant/BRANDING/tree/main/musprod) BELONG TO [MUSIC PRODUCT LIMITED](https://musicproduct.info/).
 
 ## SYMPAN
 ALL ASSETS IN [/SYMPAN](https://github.com/elrant/BRANDING/tree/main/SYMPAN) BELONG TO SYMPAN, A TEAM ELRANT PROJECT.
 
 ## nyaambxr
-MOST ASSETS IN [OC](https://github.com/elrant/BRANDING/tree/main/nyaambxr/OC) BELONG TO [JAMSHOPIE](https://twitter.com/jamshopie),
+ALL ASSETS IN [OC/jamshopie](https://github.com/elrant/BRANDING/tree/main/nyaambxr/OC/jamshopie) BELONG TO [JAMSHOPIE](https://twitter.com/jamshopie),
 
-EXCEPT ["nyaambxr skin.png"](https://github.com/elrant/BRANDING/blob/main/nyaambxr/OC/nyaambxr%20skin.png) && ["nyaambxr.rar"](https://github.com/elrant/BRANDING/blob/main/nyaambxr/OC/nyaambxr.rar) WHICH BELONG TO [TOOSTY](https://www.fiverr.com/toosty);
+ALL ASSETS IN ["OC/toosty"](https://github.com/elrant/BRANDING/blob/main/nyaambxr/OC/toosty) BELONG TO [TOOSTY](https://www.fiverr.com/toosty);
 
 ALL ASSETS IN [OC/spoopicus](https://github.com/elrant/BRANDING/tree/main/nyaambxr/OC/spoopicus) BELONG TO [SPOOPICUS](https://twitter.com/spoopicus).
+
+ALL ASSETS IN [OC/myonshit](https://github.com/e<lrant/BRANDING/tree/main/nyaambxr/OC/myonshit) BELONG TO [MYONSHIT](https://t.co/fbv0H7Vcae)
 
 ALL ASSETS IN [Background](https://github.com/elrant/BRANDING/tree/main/nyaambxr/Background) && [Banner](https://github.com/elrant/BRANDING/tree/main/nyaambxr/Banner) && [Covers](https://github.com/elrant/BRANDING/tree/main/nyaambxr/Covers) BELONG TO [NYAAMBXR](https://musicproduct.info/artists/nyaambxr.html).
 
