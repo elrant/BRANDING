@@ -1,7 +1,13 @@
-# BRANDING
-![Creative Commons BY-NC-SA 3.0](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
-ASSETS PROVIDED AS-IS BY TEAM ELRANT && AFFILIATES (with love!)
+<div align=center>
+    <img src="https://raw.githubusercontent.com/elrant/BRANDING/main/elrant/brandingteam/Logo.svg" width=75></img><h1>BRANDING</h1>
+</div>
+
+
+
+
+
+
 
 ## Music Product
 ALL ASSETS IN [/musprod](https://github.com/elrant/BRANDING/tree/main/musprod) BELONG TO [MUSIC PRODUCT LIMITED](https://musicproduct.info/).
@@ -42,3 +48,5 @@ UNDER THE FOLLOWING TERMS:
     No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 
+
+ASSETS PROVIDED AS-IS BY TEAM ELRANT && AFFILIATES (with love!)  <img src=https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png align=right></img>
